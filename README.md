@@ -3,6 +3,8 @@ creado para personas que desean algo distinto
 
 ## descarga
 
-puedes clonarlo
+ puedes clonarlo:
+```
+git clone https://github.com/naster3/bloc_notas.git
+```
 
-``` git clone https://github.com/naster3/bloc_notas.git```
